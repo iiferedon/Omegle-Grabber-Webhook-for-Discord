@@ -29,19 +29,14 @@
     <img src="images/logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Display IP information about Omegle users in Discord</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Cool javascript code to check out.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,7 +67,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+[![discord example][example.png]]
 Omegle IP Geolocation information displayed through the developer console and through a discord channel.
 It is very simple to use, and can be customized to your liking. Created in JavaScript designed to run on chromium browsers.
 
@@ -121,7 +116,7 @@ Copy the api key (it will be a random string of characters)
 *How to use it*
 1. On omegle.com before starting the video chat, press F12
 2. Go to the **Console** tab.
-3. Paste all the code into the console and start a video chat.
+3. Paste all the code into the console, press enter and start a video chat.
 4. Done!
 [![omegle example][product-screenshot]]
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -159,3 +154,4 @@ Project Link: [https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[product-example]: images/example.png
