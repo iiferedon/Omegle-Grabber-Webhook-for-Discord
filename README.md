@@ -127,7 +127,7 @@ Copy the api key (it will be a random string of characters)
 <!-- CONTACT -->
 ## Contact
 
-iiferedon - Discord - iiferedon#7337 or iiferedon#1337
+Discord - iiferedon#7337 or iiferedon#1337
 
 Project Link: [https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolocation](https://github.com/iiferedon/discord-webhook-omegle-ip-info-geolocation)
 
