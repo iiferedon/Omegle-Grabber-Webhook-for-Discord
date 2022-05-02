@@ -73,10 +73,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![omegle example][product-screenshot]]
-
 Omegle IP Geolocation information displayed through the developer console and through a discord channel.
-It is very simple to use, and can be customized to your liking.
+It is very simple to use, and can be customized to your liking. Created in JavaScript designed to run on chromium browsers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,7 +106,7 @@ Copy the api key (it will be a random string of characters)
    Choose a channel to display messages > edit channel > integrations > webhooks > create webhook > name it anything > copy the webhook URL.
    ```
 3. Open the file in a code editor (or just notepad), and edit:
-   ```sh
+   ```js
     const apiKey = "IPGEOLOCATION_API_KEY_HERE";
     const webhook = "DISCORD_WEBHOOK_URL_HERE"
    ```
@@ -125,7 +123,7 @@ Copy the api key (it will be a random string of characters)
 2. Go to the **Console** tab.
 3. Paste all the code into the console and start a video chat.
 4. Done!
-
+[![omegle example][product-screenshot]]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
