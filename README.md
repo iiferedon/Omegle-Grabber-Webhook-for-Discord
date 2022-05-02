@@ -67,7 +67,7 @@ Download the file.
 
 ### Installation
 
-_Below is an example of how you can install this webhook!._
+_Below is an example of how you can install this webhook!_
 
 1. Get a free API Key at [https://ipgeolocation.io/](https://ipgeolocation.io/)
   ```sh
