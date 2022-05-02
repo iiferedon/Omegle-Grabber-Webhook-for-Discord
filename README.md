@@ -81,7 +81,7 @@ _Below is an example of how you can install this webhook!_
    ```sh
    Choose a channel to display messages > edit channel > integrations > webhooks > create webhook > name it anything > copy the webhook URL.
    ```
-3. Open the file in a code editor (or just notepad), and edit:
+3. Open the *discord webhook for omegle.js* file in a code editor (or just notepad), and edit:
    ```js
     const apiKey = "IPGEOLOCATION_API_KEY_HERE";
     const webhook = "DISCORD_WEBHOOK_URL_HERE"
