@@ -50,6 +50,8 @@
 Omegle IP Geolocation information displayed through the developer console and through a discord channel.
 It is very simple to use, and can be customized to your liking. Created in JavaScript designed to run on chromium browsers.
 
+I haven't seen anyone implement it with discord so I did. :)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
